@@ -10,8 +10,8 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/6594b9/ffffff&text=AutoHotkey
 .. image:: http://www.placehold.it/200/d4bec1/ffffff&text=Boo
 .. image:: http://www.placehold.it/200/555/ffffff&text=C
-.. image:: http://www.placehold.it/200/5a25a2/ffffff&text=C%23
-.. image:: http://www.placehold.it/200/f34b7d/ffffff&text=C%2B%2B
+.. image:: http://www.placehold.it/200/5a25a2/ffffff&text=C-Sharp
+.. image:: http://www.placehold.it/200/f34b7d/ffffff&text=Cpp
 .. image:: http://www.placehold.it/200/1f085e/ffffff&text=CSS
 .. image:: http://www.placehold.it/200/db5855/ffffff&text=Clojure
 .. image:: http://www.placehold.it/200/244776/ffffff&text=CoffeeScript
@@ -24,7 +24,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/6e4a7e/ffffff&text=Elixir
 .. image:: http://www.placehold.it/200/c065db/ffffff&text=Emacs%20Lisp
 .. image:: http://www.placehold.it/200/0faf8d/ffffff&text=Erlang
-.. image:: http://www.placehold.it/200/b845fc/ffffff&text=F%23
+.. image:: http://www.placehold.it/200/b845fc/ffffff&text=F-Sharp
 .. image:: http://www.placehold.it/200/4d41b1/ffffff&text=FORTRAN
 .. image:: http://www.placehold.it/200/636746/ffffff&text=Factor
 .. image:: http://www.placehold.it/200/7b9db4/ffffff&text=Fancy
