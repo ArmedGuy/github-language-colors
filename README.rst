@@ -41,6 +41,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/3994bc/ffffff&text=Eagle
 .. image:: http://www.placehold.it/200/946d57/ffffff&text=Eiffel
 .. image:: http://www.placehold.it/200/6e4a7e/ffffff&text=Elixir
+.. image:: http://www.placehold.it/200/60B5CC/ffffff&text=Elm
 .. image:: http://www.placehold.it/200/c065db/ffffff&text=Emacs%20Lisp
 .. image:: http://www.placehold.it/200/f64e3e/ffffff&text=EmberScript
 .. image:: http://www.placehold.it/200/0faf8d/ffffff&text=Erlang
@@ -56,6 +57,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/e4cc98/ffffff&text=Glyph
 .. image:: http://www.placehold.it/200/f0a9f0/ffffff&text=Gnuplot
 .. image:: http://www.placehold.it/200/375eab/ffffff&text=Go
+.. image:: http://www.placehold.it/200/f6a51f/ffffff&text=Golo
 .. image:: http://www.placehold.it/200/82937f/ffffff&text=Gosu
 .. image:: http://www.placehold.it/200/ff0000/ffffff&text=Grammatical%20Framework
 .. image:: http://www.placehold.it/200/e69f56/ffffff&text=Groovy
@@ -72,6 +74,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/a270ba/ffffff&text=Julia
 .. image:: http://www.placehold.it/200/f5c800/ffffff&text=KRL
 .. image:: http://www.placehold.it/200/004200/ffffff&text=LFE
+.. image:: http://www.placehold.it/200/cc9900/ffffff&text=LOLCODE
 .. image:: http://www.placehold.it/200/3d9970/ffffff&text=LSL
 .. image:: http://www.placehold.it/200/2584c3/ffffff&text=Lasso
 .. image:: http://www.placehold.it/200/A8FF97/ffffff&text=Latte
@@ -88,6 +91,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/ff2b2b/ffffff&text=NetLogo
 .. image:: http://www.placehold.it/200/37775b/ffffff&text=Nimrod
 .. image:: http://www.placehold.it/200/0d8921/ffffff&text=Nit
+.. image:: http://www.placehold.it/200/7070ff/ffffff&text=Nix
 .. image:: http://www.placehold.it/200/c9df40/ffffff&text=Nu
 .. image:: http://www.placehold.it/200/3be133/ffffff&text=OCaml
 .. image:: http://www.placehold.it/200/438eff/ffffff&text=Objective-C
@@ -96,9 +100,11 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/cabbff/ffffff&text=Omgrofl
 .. image:: http://www.placehold.it/200/f7ede0/ffffff&text=Opal
 .. image:: http://www.placehold.it/200/5a63a3/ffffff&text=Oxygene
+.. image:: http://www.placehold.it/200/fcaf3e/ffffff&text=Oz
 .. image:: http://www.placehold.it/200/dbb284/ffffff&text=PAWN
 .. image:: http://www.placehold.it/200/4F5D95/ffffff&text=PHP
 .. image:: http://www.placehold.it/200/cc0000/ffffff&text=Pan
+.. image:: http://www.placehold.it/200/6600cc/ffffff&text=Papyrus
 .. image:: http://www.placehold.it/200/f3ca0a/ffffff&text=Parrot
 .. image:: http://www.placehold.it/200/b0ce4e/ffffff&text=Pascal
 .. image:: http://www.placehold.it/200/0298c3/ffffff&text=Perl
@@ -111,10 +117,12 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/2b446d/ffffff&text=Propeller%20Spin
 .. image:: http://www.placehold.it/200/cc5555/ffffff&text=Puppet
 .. image:: http://www.placehold.it/200/91de79/ffffff&text=Pure%20Data
+.. image:: http://www.placehold.it/200/5a6986/ffffff&text=PureBasic
 .. image:: http://www.placehold.it/200/bcdc53/ffffff&text=PureScript
 .. image:: http://www.placehold.it/200/3581ba/ffffff&text=Python
 .. image:: http://www.placehold.it/200/44a51c/ffffff&text=QML
 .. image:: http://www.placehold.it/200/198ce7/ffffff&text=R
+.. image:: http://www.placehold.it/200/77d9fb/ffffff&text=RAML
 .. image:: http://www.placehold.it/200/ae17ff/ffffff&text=Racket
 .. image:: http://www.placehold.it/200/ff9c2e/ffffff&text=Ragel%20in%20Ruby%20Host
 .. image:: http://www.placehold.it/200/358a5b/ffffff&text=Rebol
@@ -127,7 +135,7 @@ The Colors used by GitHub to represent programming languages
 .. image:: http://www.placehold.it/200/7dd3b0/ffffff&text=Scala
 .. image:: http://www.placehold.it/200/1e4aec/ffffff&text=Scheme
 .. image:: http://www.placehold.it/200/0579aa/ffffff&text=Self
-.. image:: http://www.placehold.it/200/5861ce/ffffff&text=Shell
+.. image:: http://www.placehold.it/200/89e051/ffffff&text=Shell
 .. image:: http://www.placehold.it/200/120F14/ffffff&text=Shen
 .. image:: http://www.placehold.it/200/007eff/ffffff&text=Slash
 .. image:: http://www.placehold.it/200/ff8877/ffffff&text=Slim
